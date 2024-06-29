@@ -1,0 +1,12 @@
+---
+:id: 201571176
+:submitters:
+- :name: Sanya Sachan
+  :email: mt1221286@maths.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-11 19:53:58.522631000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-11 12:53:58.522631000 Z
+:status: processed
+:score: 9.0
