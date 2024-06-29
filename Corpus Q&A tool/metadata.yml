@@ -1,0 +1,18 @@
+---
+:id: 211765797
+:submitters:
+- :name: Sanya Sachan
+  :email: mt1221286@maths.iitd.ac.in
+- :name: Hitesh Yadav
+  :email: mt1221322@maths.iitd.ac.in
+- :name: Yash Bansal
+  :email: cs5221133@iitd.ac.in
+- :name: Arnav Tandon
+  :email: cs1221085@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-11 09:51:11.579066000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-11 01:51:11.579066000 Z
+:status: processed
+:score: 42.5
